@@ -1,0 +1,10 @@
+**requirements.txt**
+
+```
+pandas
+folium
+geopy
+plotly
+streamlit
+streamlit-folium
+```
